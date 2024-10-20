@@ -1,0 +1,39 @@
+.folder{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    width: 200px;
+    background-color: rgba(115, 216, 15, 0.945);
+    border-radius: 6px;
+        
+
+    img{
+        width: 200px;
+    }
+    
+       
+    
+    p{
+        font-size:20px ; 
+        width: 170px;
+        color: rgb(70, 66, 66);
+        align-items: center;
+        margin-left: 50px;
+        font-weight: 600;
+
+    }
+
+    h1{
+        color: rgb(241, 238, 238);
+        margin-left: 18px;
+    }
+
+    h6{
+        font-style: italic;
+        font-size: 20px;
+        color: antiquewhite;
+        margin-left: 18px;
+    }
+}
